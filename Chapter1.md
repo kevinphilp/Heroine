@@ -13,3 +13,5 @@ and some more
 
 and yet more
 >>>>>>> Branch1
+
+and a bit more
