@@ -11,6 +11,8 @@ edited with endevour
 and some more
 
 and yet more
-Branch1
+Branch 1
 
 and a bit more and a new Zettlr
+can we add flatseal
+Finally change /run/user
